@@ -1,0 +1,11 @@
+{
+  "name": "o-fome-cardapio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Cardápio digital em HTML, CSS e JavaScript, sem dependências.",
+  "scripts": {
+    "start": "node servidor.cjs",
+    "build": "node preparar.cjs",
+    "check": "node --check js/produtos.js && node --check js/cardapio.js"
+  }
+}
