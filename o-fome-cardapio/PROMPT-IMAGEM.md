@@ -1,7 +1,0 @@
-# Imagem ilustrativa do cardápio
-
-Ferramenta: ImageGen integrada, sem API externa. Arquivo: `assets/cardapio.png`.
-
-## Prompt completo
-
-Use case: photorealistic-natural. Asset type: single food photography sprite atlas for a playful Brazilian snack bar digital menu. Create one landscape image 1536x1024 arranged as a precise seamless 3 columns by 2 rows grid of six equal square photographic panels, no gutters, no borders, no text, no lettering, no logos. Each panel is a separate professional studio food photograph with warm light and tactile appetizing realistic textures, shallow shadows, centered whole food fully inside its panel with 15 percent breathing room. Panel row 1 col 1: tall double smash cheeseburger with golden sesame brioche, two beef patties, melted cheddar and pickles on pale warm peach background. Row 1 col 2: two golden crispy Brazilian rectangular deep fried pasteis, one cut open showing molten cheese, on pale butter yellow background. Row 1 col 3: terracotta ceramic cappuccino cup with latte art viewed at 45 degree angle and tiny biscuit on warm muted pink background. Row 2 col 1: golden french fries in a small red paper tray on pale cream background. Row 2 col 2: glass of fresh orange juice with ice and orange half on pale sage green background. Row 2 col 3: single cheeseburger with bacon, lettuce and tomato in brioche on pale warm peach background. Consistent camera and commercial editorial photography, no illustrations, no artificial plastic textures. Strict equal six square grid cells.
